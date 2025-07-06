@@ -40,7 +40,7 @@ The dashboard presents a visual story of stock performance over one year, highli
 
 If you found this useful or want to collaborate:
 - [LinkedIn] www.linkedin.com/in/mohammed-samiyuddin
-- Email: samiyuddin2025@gmail.com
+- Email: samiyuddinmohammed2025@gmail.com
 
 ---
 
